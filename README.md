@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/hatealgebra/frontend-mentor-showcase](https://github.com/hatealgebra/frontend-mentor-showcase)
+- Live Site URL: [https://results-summary-component-fem-pv.netlify.app/](https://results-summary-component-fem-pv.netlify.app/)
 
 ## My process
 
